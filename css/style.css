@@ -17,21 +17,23 @@ nav.menu-nav ul li.btn_1{
     margin: 4px 2px;
     border-radius: 2rem;
 }
-.attr_1{
+.lower-section{
+    display: flex;
+    justify-content: center;
+    align-items: center;
     position : absolute;
-    bottom : 0px;
-    text-align: center;
-    margin-left: 50%
+    
+    height: 150%;
+    width: 100%;
 }
 p{
     font-family: 'Source Sans Pro', sans-serif;
 }
-.liendiscord{
-    color: black;
+.discord-link {
+  padding: 0 2px 0 2px;
 }
-
 body{
+    margin: 0;
+    padding: 0;
     background: url(../img/background.gif);
-    height: 5%;
-    width: 5%
 }
