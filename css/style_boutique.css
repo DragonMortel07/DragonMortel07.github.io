@@ -17,21 +17,9 @@ nav.menu-nav ul li.btn_1{
     margin: 4px 2px;
     border-radius: 2rem;
 }
-.attr_1{
-    position : absolute;
-    bottom : 0px;
-    text-align: center;
-    margin-left: 50%
-}
 p{
     font-family: 'Source Sans Pro', sans-serif;
 }
 .liendiscord{
     color: black;
-}
-
-body{
-    background: url(../img/background.gif);
-    height: 5%;
-    width: 5%
 }
