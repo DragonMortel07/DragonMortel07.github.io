@@ -1,0 +1,25 @@
+a{
+    text-decoration: none;
+}
+nav.menu-nav ul li.btn_1{
+    list-style-type: none;
+    display: inline-block;
+}
+.btn_1{
+    background-color: #ffffff;
+    color: #000;
+    border: none;
+    padding: 7px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    border-radius: 2rem;
+}
+p{
+    font-family: 'Source Sans Pro', sans-serif;
+}
+.liendiscord{
+    color: black;
+}
