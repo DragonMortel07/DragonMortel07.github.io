@@ -18,19 +18,26 @@ nav.menu-nav ul li.btn_1{
     border-radius: 2rem;
 }
 .lower-section{
-    display: flex;
-    justify-content: center;
-    align-items: center;
     position : absolute;
-    
-    height: 150%;
     width: 100%;
+    bottom: 20%;
+    text-align: center;
 }
 p{
     font-family: 'Source Sans Pro', sans-serif;
 }
 .discord-link {
   padding: 0 2px 0 2px;
+}
+
+.big_title{
+    font-size: 150px;
+    font-family: 'Ubuntu', sans-serif;
+}
+.links{
+    font-family: 'Ubuntu', sans-serif;
+    color: #000;
+
 }
 body{
     margin: 0;
